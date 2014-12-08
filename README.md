@@ -7,6 +7,7 @@ LolOTP
 What you can do:
 * Add an account
 * Delete an account by long-pressing an item in the list
+* Use it for Google's 2-Step verification
 
 To come:
 * Customize list items background color
