@@ -1,0 +1,10 @@
+gen
+proguard-project.txt
+bin
+ic_launcher-web.png
+project.properties
+libs/android-support-v4.jar
+.project
+doc
+.settings/
+.classpath
